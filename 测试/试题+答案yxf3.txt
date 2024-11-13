@@ -1,0 +1,2129 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "ExamInfo": {
+            "ExamID": 1079,
+            "ExamName": "2024年总包人员资格认定测评（10月）",
+            "Duration": 70,
+            "UserNum": 85,
+            "IsShowResult": true,
+            "No": 1,
+            "OverUser": "42",
+            "UEID": 150057,
+            "GetScore": "72.0",
+            "TotalScore": 100.0,
+            "QuesNum": 50
+        },
+        "MyExams": [
+            {
+                "No": 1,
+                "UEID": 150057,
+                "SubTime": "2024.10.31 10:15",
+                "GetScore": "72.0"
+            }
+        ],
+        "CardItems": [
+            {
+                "QType": 1,
+                "QTypeName": "单选题",
+                "QuesNum": 25,
+                "Score": 2.0,
+                "MissGetScore": false,
+                "TKScoreType": 1,
+                "QuesItems": [
+                    {
+                        "EQID": 252298,
+                        "QuesNo": 1,
+                        "QuesID": 1964,
+                        "QType": 1,
+                        "QTitle": "以下关于工程总承包项目施工分包结算说法不正确的是（）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "在开展分包结算时，可根据情况，先支付、后结算；",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "工程总承包项目经营管理部门负责审核结算单，财务管理、物资管理、安全管理部门应核实需要扣减的相关费用。",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "在拨付工程款时要注意代扣营业税金、预留工程质量保证金。",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "工程总承包项目工程管理部门应负责审核“符合合同技术要求”并经验收合格的工程量。",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            }
+                        ],
+                        "Answer": "A",
+                        "Analy": "",
+                        "SubAnswer": "A",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252299,
+                        "QuesNo": 2,
+                        "QuesID": 1998,
+                        "QType": 1,
+                        "QTitle": "在EPC工程总承包项目中，承包商不仅仅只是完成（    ）的任务，更重要的是要给业主交付一个满足质量及功能需求的项目。",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "设计",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "设计采购",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "收尾验收",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "设计采购施工",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            }
+                        ],
+                        "Answer": "D",
+                        "Analy": "",
+                        "SubAnswer": "D",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252300,
+                        "QuesNo": 3,
+                        "QuesID": 2009,
+                        "QType": 1,
+                        "QTitle": "事故按国家有关规定分为特别重大、重大、较大和一般事故四个等级，其中较大事故为",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "死亡3人以下，或重伤10人以下，或直接经济损失1000万元以下，50万元以上",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "死亡3人以上，5人以下，或重伤5人以上，20人以下，或直接经济损失1000万元以上，5000万元以下",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "死亡3人以上10人以下，或重伤10人以上50人以下，或直接经济损失1000万元以上5000万元以下",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "死亡30人以上，或重伤100人以上，或直接经济损失1亿元以上",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            }
+                        ],
+                        "Answer": "C",
+                        "Analy": "",
+                        "SubAnswer": "C",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252301,
+                        "QuesNo": 4,
+                        "QuesID": 2011,
+                        "QType": 1,
+                        "QTitle": "建立健全本企业安全生产组织机构并明确具体工作职责，主要包括",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "以上均是",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "安全生产工作领导机构",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "安全生产工作监督管理机构",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "安全生产应急指挥机构",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            }
+                        ],
+                        "Answer": "A",
+                        "Analy": "",
+                        "SubAnswer": "A",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252302,
+                        "QuesNo": 5,
+                        "QuesID": 1954,
+                        "QType": 1,
+                        "QTitle": "关于设计进度与质量风险的管控措施描述正确的是（）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "无需各专业间的界面碰撞",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "提前完成设计图纸的优化和深化，避免实施过程中的设计图纸变更",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "设计完成初步设计和施工图设计后，可直接发给监理进行施工准备",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "不需要供应商、施工单位、分包单位完成对各自界面的二次设计和质量确认",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            }
+                        ],
+                        "Answer": "B",
+                        "Analy": "",
+                        "SubAnswer": "B",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252303,
+                        "QuesNo": 6,
+                        "QuesID": 2019,
+                        "QType": 1,
+                        "QTitle": "集客总包收入合同多少金额以上需要过分管领导审核？（）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "任何金额",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 2
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "200万",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 2
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "500万",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "1000万",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            }
+                        ],
+                        "Answer": "A",
+                        "Analy": "",
+                        "SubAnswer": "B",
+                        "StatusID": 2
+                    },
+                    {
+                        "EQID": 252304,
+                        "QuesNo": 7,
+                        "QuesID": 1967,
+                        "QType": 1,
+                        "QTitle": "工程总承包项目施工计划由谁批准实施（ ）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "施工经理",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "业主",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "项目经理",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "公司领导",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            }
+                        ],
+                        "Answer": "C",
+                        "Analy": "",
+                        "SubAnswer": "C",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252305,
+                        "QuesNo": 8,
+                        "QuesID": 1949,
+                        "QType": 1,
+                        "QTitle": "解决销售人员与售前人员、实施团队人员信息不对称的最佳方式（）？",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "以上均不对",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "聊天方式",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "“备忘录”方式",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "电话语音方式",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            }
+                        ],
+                        "Answer": "C",
+                        "Analy": "",
+                        "SubAnswer": "C",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252306,
+                        "QuesNo": 9,
+                        "QuesID": 1961,
+                        "QType": 1,
+                        "QTitle": "不属于现场安全隐患的根源是（  ）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "施工劳务队伍素质低",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "现场施工难度大",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "安全生产管理制度不落实",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "安全管理意识薄弱",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            }
+                        ],
+                        "Answer": "B",
+                        "Analy": "",
+                        "SubAnswer": "B",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252307,
+                        "QuesNo": 10,
+                        "QuesID": 1992,
+                        "QType": 1,
+                        "QTitle": "以下对“精前端，强后台”的矩阵管理模式，说法不正确的是（  ）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "工程总承包项目成功是由项目团队决定的",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "职能部门要从审核、审批中心转变成资源中心、解决方案中心、服务中心",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "精前端”是指项目现场调派多专业复合型且组织协调能力强的专业管理人员，让优秀的人才“上前线”",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "总部职能部门与机关要从传统的管控职能向支持、服务、监控职能转变。\n目前转型发展工程总承包业务的两大主体是设计院和施工单位",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            }
+                        ],
+                        "Answer": "A",
+                        "Analy": "",
+                        "SubAnswer": "A",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252308,
+                        "QuesNo": 11,
+                        "QuesID": 2018,
+                        "QType": 1,
+                        "QTitle": "总包分包合同多少金额以上需要过总经理审批？（）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "200万",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 2
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "任何金额",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "500万",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "1000万",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 2
+                            }
+                        ],
+                        "Answer": "A",
+                        "Analy": "",
+                        "SubAnswer": "D",
+                        "StatusID": 2
+                    },
+                    {
+                        "EQID": 252309,
+                        "QuesNo": 12,
+                        "QuesID": 1985,
+                        "QType": 1,
+                        "QTitle": "设计需求识别主要是通过研究EPC(    )，并逐步确定业主及项目利益相关方要求和期望的过程。",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "项目施工文件",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "项目采购文件",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "项目设计文件",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 2
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "项目合同文件",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 2
+                            }
+                        ],
+                        "Answer": "D",
+                        "Analy": "",
+                        "SubAnswer": "C",
+                        "StatusID": 2
+                    },
+                    {
+                        "EQID": 252310,
+                        "QuesNo": 13,
+                        "QuesID": 1993,
+                        "QType": 1,
+                        "QTitle": "以下不属于工程总承包业务顶层设计解决的问题是（   ）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "工程总承包业务的战略定位",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "转变管理思维",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "提升管理水平",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 2
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "构建管理机制",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 2
+                            }
+                        ],
+                        "Answer": "C",
+                        "Analy": "",
+                        "SubAnswer": "D",
+                        "StatusID": 2
+                    },
+                    {
+                        "EQID": 252311,
+                        "QuesNo": 14,
+                        "QuesID": 2017,
+                        "QType": 1,
+                        "QTitle": "对于法务提出的合同修改意见，如与对方协商后无法修改的，怎么处理（）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "暂且搁置，先处理其他合同",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "经办人评估可以承担合同风险，邮件回复法务不修改",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "直接上翔云走审批流程",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "经办人向部门领导汇报，由部门领导决策，并由领导发邮件给风险管理部",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            }
+                        ],
+                        "Answer": "D",
+                        "Analy": "与对方协商——协商不成，向部门领导汇报——部门评估风险可以承担——由部门领导发邮件给风险管理部说明",
+                        "SubAnswer": "D",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252312,
+                        "QuesNo": 15,
+                        "QuesID": 1991,
+                        "QType": 1,
+                        "QTitle": "在矩阵管理模式下有三类关键的角色：项目经理、职能经理和（    ）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "项目分项/专项主管",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "项目经理",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "项目工程师",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "项目专项技术人员",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            }
+                        ],
+                        "Answer": "A",
+                        "Analy": "",
+                        "SubAnswer": "A",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252313,
+                        "QuesNo": 16,
+                        "QuesID": 1968,
+                        "QType": 1,
+                        "QTitle": "工程总承包项目施工开工条件不包括（ ）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "业主代表已确认",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 2
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "设计交底结束",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "施工许可证已批准",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "建设资金已落实",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 2
+                            }
+                        ],
+                        "Answer": "A",
+                        "Analy": "",
+                        "SubAnswer": "D",
+                        "StatusID": 2
+                    },
+                    {
+                        "EQID": 252314,
+                        "QuesNo": 17,
+                        "QuesID": 1984,
+                        "QType": 1,
+                        "QTitle": "以下不属于EPC工程总承包项目设计管理策划内容的是（  ）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "需求识别与交付标准制定",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "基于交付标准落实限额设计",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "规划项目设计出图计划",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "明确设计分包单位",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            }
+                        ],
+                        "Answer": "D",
+                        "Analy": "",
+                        "SubAnswer": "D",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252315,
+                        "QuesNo": 18,
+                        "QuesID": 2020,
+                        "QType": 1,
+                        "QTitle": "某EPC总包项目收入合同的审批通过以下哪种方式（）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "邮件审批",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "翔云审批",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "不用审批直接盖章",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "线下审批表",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            }
+                        ],
+                        "Answer": "B",
+                        "Analy": "",
+                        "SubAnswer": "B",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252316,
+                        "QuesNo": 19,
+                        "QuesID": 2029,
+                        "QType": 1,
+                        "QTitle": "总承包项目包括EPC总承包、系统集成、施工总承包的所有类型项目，通过哪种方式取得合同需要进行标前评估",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "以上都是",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "竞争性谈判",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "联合体投标",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "直接委托",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            }
+                        ],
+                        "Answer": "A",
+                        "Analy": "",
+                        "SubAnswer": "A",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252317,
+                        "QuesNo": 20,
+                        "QuesID": 2022,
+                        "QType": 1,
+                        "QTitle": "垫资资金成本作为项目成本计入考核，按中通服规定的()垫资利率进行核算",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": ".06",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 2
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": ".09",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": ".08",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 2
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": ".07",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            }
+                        ],
+                        "Answer": "C",
+                        "Analy": "垫资资金成本作为项目成本计入考核，按中通服规定的8%垫资利率进行核算",
+                        "SubAnswer": "A",
+                        "StatusID": 2
+                    },
+                    {
+                        "EQID": 252318,
+                        "QuesNo": 21,
+                        "QuesID": 1955,
+                        "QType": 1,
+                        "QTitle": "关于机电总包工程中关于采购风险管控措施描述错误的是（）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "合同协议明确供应商的供货时间、供货方式、相应保险、违约责任等条款",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "关注项目交付周期、汇率等变化",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "规范采购流程，优选可靠的供应商和合作方",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "不需要供应商尽量采用背靠背的方式采购",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            }
+                        ],
+                        "Answer": "D",
+                        "Analy": "",
+                        "SubAnswer": "D",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252319,
+                        "QuesNo": 22,
+                        "QuesID": 3739,
+                        "QType": 1,
+                        "QTitle": "非联合体项目或联合体参与方项目，且项目报价小于3000万元。该项目的评控不含税毛利率为（）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "0.09",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 2
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "0.06",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "0.07",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "0.08",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 2
+                            }
+                        ],
+                        "Answer": "D",
+                        "Analy": "",
+                        "SubAnswer": "A",
+                        "StatusID": 2
+                    },
+                    {
+                        "EQID": 252320,
+                        "QuesNo": 23,
+                        "QuesID": 1960,
+                        "QType": 1,
+                        "QTitle": "施工技术档案不包括（ ）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "施工技术总结",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "设备负荷实验报告",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "施工图纸会检记录",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "施工组织设计",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            }
+                        ],
+                        "Answer": "B",
+                        "Analy": "",
+                        "SubAnswer": "B",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252321,
+                        "QuesNo": 24,
+                        "QuesID": 2006,
+                        "QType": 1,
+                        "QTitle": "搭设高度（  ）及以上落地式钢管脚手架工程属超过一定规模的危险性较大分部分项工程，需组织专家论证",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "80m",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "50m",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "20m",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "100m",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            }
+                        ],
+                        "Answer": "B",
+                        "Analy": "",
+                        "SubAnswer": "B",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252322,
+                        "QuesNo": 25,
+                        "QuesID": 1969,
+                        "QType": 1,
+                        "QTitle": "工程总承包项目的施工管理由谁直接管理（ ）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "项目经理",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 2
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "安全总监",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "总工",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "施工经理",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 2
+                            }
+                        ],
+                        "Answer": "D",
+                        "Analy": "",
+                        "SubAnswer": "A",
+                        "StatusID": 2
+                    }
+                ],
+                "Errors": [
+                    6,
+                    11,
+                    12,
+                    13,
+                    16,
+                    20,
+                    22,
+                    25
+                ]
+            },
+            {
+                "QType": 2,
+                "QTypeName": "多选题",
+                "QuesNum": 15,
+                "Score": 2.0,
+                "MissGetScore": true,
+                "TKScoreType": 1,
+                "QuesItems": [
+                    {
+                        "EQID": 252323,
+                        "QuesNo": 1,
+                        "QuesID": 1847,
+                        "QType": 2,
+                        "QTitle": "业务获取风险包括（）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "渠道信息获取产生的风险",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "投标准备的风险",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "标书编制、上传等风险",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "投标报价风险",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "E",
+                                "OptionText": "业主引发的风险",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            }
+                        ],
+                        "Answer": "ABCDE",
+                        "Analy": "",
+                        "SubAnswer": "ABCDE",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252324,
+                        "QuesNo": 2,
+                        "QuesID": 1896,
+                        "QType": 2,
+                        "QTitle": "工程总承包项目的施工管理前期工作包括（）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "加强各方沟通，核实开工条件",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "组建项目团队，明确工作任务",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "做好施工准备，确保队伍进场",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "做好施工策划，选择施工队伍",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            }
+                        ],
+                        "Answer": "ABCD",
+                        "Analy": "",
+                        "SubAnswer": "ABCD",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252325,
+                        "QuesNo": 3,
+                        "QuesID": 1921,
+                        "QType": 2,
+                        "QTitle": "下列哪些属于企业工程总承包项目管理五大管理机制的内容（    ）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "以项目为中心",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "实行监理监督制",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 2
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "实行矩阵管理",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "专业部室为基础",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 1
+                            }
+                        ],
+                        "Answer": "ACD",
+                        "Analy": "",
+                        "SubAnswer": "ABC",
+                        "StatusID": 2
+                    },
+                    {
+                        "EQID": 252326,
+                        "QuesNo": 4,
+                        "QuesID": 1922,
+                        "QType": 2,
+                        "QTitle": "EPC项目的管理收益具体措施包括（    ）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "减少项目管理人员数量",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "严格控制设计变更和现场签证",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "做好EPC项目竣工阶段的成本控制",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "通过有效的合同管理控制成本",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            }
+                        ],
+                        "Answer": "BCD",
+                        "Analy": "",
+                        "SubAnswer": "BCD",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252327,
+                        "QuesNo": 5,
+                        "QuesID": 1858,
+                        "QType": 2,
+                        "QTitle": "国际工程的环境风险主要包括（）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "社会环境风险",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "生态环境风险",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 2
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "经济环境风险",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "政治环境风险",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            }
+                        ],
+                        "Answer": "ACD",
+                        "Analy": "",
+                        "SubAnswer": "ABCD",
+                        "StatusID": 2
+                    },
+                    {
+                        "EQID": 252328,
+                        "QuesNo": 6,
+                        "QuesID": 1927,
+                        "QType": 2,
+                        "QTitle": "工程总承包的主要形式是（    ）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "设计—采购总承包（E-P）或采购—施工总承包(P-C)",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "Turnkey交钥匙工程",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "设计-施工总承包（D-B）",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "设计-采购-施工总承包（EPC）",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            }
+                        ],
+                        "Answer": "ABCD",
+                        "Analy": "",
+                        "SubAnswer": "ACD",
+                        "StatusID": 2
+                    },
+                    {
+                        "EQID": 252329,
+                        "QuesNo": 7,
+                        "QuesID": 1909,
+                        "QType": 2,
+                        "QTitle": "工程总承包企业的采购管理部一般可下设综合组（   ）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "催交组",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "采买组",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "运输组",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "检验组",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            }
+                        ],
+                        "Answer": "ABCD",
+                        "Analy": "",
+                        "SubAnswer": "ABCD",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252330,
+                        "QuesNo": 8,
+                        "QuesID": 1878,
+                        "QType": 2,
+                        "QTitle": "施工试运行与采购的接口中，项目策划阶段由采购经理和施工经理、试运行经理分别编制的（   ），三者应协调一致。",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "总进度计划",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "试运行计划",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "采购计划",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "施工计划",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            }
+                        ],
+                        "Answer": "BCD",
+                        "Analy": "",
+                        "SubAnswer": "BCD",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252331,
+                        "QuesNo": 9,
+                        "QuesID": 1864,
+                        "QType": 2,
+                        "QTitle": "应对安全生产风险的三大基本措施是（  ）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "安全法律措施",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "安全教育培训措施",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "安全管理措施",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "安全技术措施",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            }
+                        ],
+                        "Answer": "BCD",
+                        "Analy": "",
+                        "SubAnswer": "BCD",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252332,
+                        "QuesNo": 10,
+                        "QuesID": 1859,
+                        "QType": 2,
+                        "QTitle": "关于成本风险管控措施下列选项正确的是（）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "妥善处理和控制项目垫资等资金风险",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "与供应商尽量采用背靠背的方式采购",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "项目投标期间尽可能对设备进行完整询价，优化项目成本评估结果",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "制定可行的项目成本管理计划",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            }
+                        ],
+                        "Answer": "ABCD",
+                        "Analy": "",
+                        "SubAnswer": "ABCD",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252333,
+                        "QuesNo": 11,
+                        "QuesID": 3743,
+                        "QType": 2,
+                        "QTitle": "以下哪些项目需要进行标前评估",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "应急保障厅各系统架构咨询项目",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "通信管线迁改工程设计施工总承包",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "监狱信息化系统集成",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "大宗贸易业务管理系统采购项目",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            }
+                        ],
+                        "Answer": "BCD",
+                        "Analy": "",
+                        "SubAnswer": "BCD",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252334,
+                        "QuesNo": 12,
+                        "QuesID": 1936,
+                        "QType": 2,
+                        "QTitle": "总包项目中的劳务分包合同需要以下哪些环节审核（）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "风险管理部",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "采购部",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "财务部",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "集客部",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 2
+                            },
+                            {
+                                "OptionVal": "E",
+                                "OptionText": "总包工程部",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "F",
+                                "OptionText": "分管领导",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            }
+                        ],
+                        "Answer": "ABCEF",
+                        "Analy": "总包分包合同需要发起部门、总包部、采购部、财务部、风险管理部、分管领导、总经理（大于200万）审核",
+                        "SubAnswer": "ABCDEF",
+                        "StatusID": 2
+                    },
+                    {
+                        "EQID": 252335,
+                        "QuesNo": 13,
+                        "QuesID": 1846,
+                        "QType": 2,
+                        "QTitle": "投标报价风险来源（）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "建设项目实地考察带来的风险",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "估算工程量带来的风险",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "分包和采购询价带来的风险",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "理解偏差带来的风险",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            }
+                        ],
+                        "Answer": "ABCD",
+                        "Analy": "",
+                        "SubAnswer": "ABCD",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252336,
+                        "QuesNo": 14,
+                        "QuesID": 1880,
+                        "QType": 2,
+                        "QTitle": "建设工程施工区别于其他行业的作业，因其什么原因，使建设施工成为重大事故频发的高风险行业（   ）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "劳动条件差，从业人员的构成不确定性及流动性大",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "施工机械设备种类多、数量大",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "作业环境的开放性，现场情况多变",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "多工种的立体交叉作业，动用的资源多",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            }
+                        ],
+                        "Answer": "ABCD",
+                        "Analy": "",
+                        "SubAnswer": "ABD",
+                        "StatusID": 2
+                    },
+                    {
+                        "EQID": 252337,
+                        "QuesNo": 15,
+                        "QuesID": 1919,
+                        "QType": 2,
+                        "QTitle": "设计院发展工程总承包业务的定位模式有（    ）",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "以传统设计业务为主体，将工程总承包作为机遇型业务或“第三产业”发展",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "转型国际工程公司，以工程总承包为核心主营业务",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "C",
+                                "OptionText": "在设计院做大做强的战略指引下，大力发展工程总承包，与传统设计业务并行发展",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "D",
+                                "OptionText": "将EPC业务作为新兴高端业务发展",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 2
+                            }
+                        ],
+                        "Answer": "ABC",
+                        "Analy": "",
+                        "SubAnswer": "ACD",
+                        "StatusID": 2
+                    }
+                ],
+                "Errors": [
+                    3,
+                    5,
+                    6,
+                    12,
+                    14,
+                    15
+                ]
+            },
+            {
+                "QType": 3,
+                "QTypeName": "判断题",
+                "QuesNum": 10,
+                "Score": 2.0,
+                "MissGetScore": false,
+                "TKScoreType": 1,
+                "QuesItems": [
+                    {
+                        "EQID": 252338,
+                        "QuesNo": 1,
+                        "QuesID": 1835,
+                        "QType": 3,
+                        "QTitle": "禁止开展违约赔偿和索赔条款中我方负责所有费用的项目",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "正确",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "错误",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            }
+                        ],
+                        "Answer": "A",
+                        "Analy": "",
+                        "SubAnswer": "A",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252339,
+                        "QuesNo": 2,
+                        "QuesID": 1820,
+                        "QType": 3,
+                        "QTitle": "投标人相互串通投标报价，或者投标人与招标人串通投标，违法所得超过10万元的，或造成直接经济损失数额在五十万元的，应当立案追诉。",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "正确",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "错误",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            }
+                        ],
+                        "Answer": "A",
+                        "Analy": "",
+                        "SubAnswer": "A",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252340,
+                        "QuesNo": 3,
+                        "QuesID": 1827,
+                        "QType": 3,
+                        "QTitle": "华信有专门针对总包项目的合同管理办法",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "正确",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 2
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "错误",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 2
+                            }
+                        ],
+                        "Answer": "B",
+                        "Analy": "没有，总包项目合同管理依照《合同管理办法》执行",
+                        "SubAnswer": "A",
+                        "StatusID": 2
+                    },
+                    {
+                        "EQID": 252341,
+                        "QuesNo": 4,
+                        "QuesID": 1788,
+                        "QType": 3,
+                        "QTitle": "施工项目的质量控制是从工序质量到分项工程质量、分部工程质量、单位工程质量的系统控制过程；也是一个由对投入原材料的质量控制开始，直到完成工程质量检验为止的全过程的系统过程。",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "正确",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "错误",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            }
+                        ],
+                        "Answer": "A",
+                        "Analy": "",
+                        "SubAnswer": "A",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252342,
+                        "QuesNo": 5,
+                        "QuesID": 1838,
+                        "QType": 3,
+                        "QTitle": "施工总承包的税率为9%",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "正确",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "错误",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            }
+                        ],
+                        "Answer": "B",
+                        "Analy": "根据货物、软件、施工等分别计税",
+                        "SubAnswer": "B",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252343,
+                        "QuesNo": 6,
+                        "QuesID": 1765,
+                        "QType": 3,
+                        "QTitle": "系统集成项目竣工申请时，项目组再准备整理项目竣工资料即可，项目实施过程可不需要整理。",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "正确",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "错误",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            }
+                        ],
+                        "Answer": "B",
+                        "Analy": "",
+                        "SubAnswer": "B",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252344,
+                        "QuesNo": 7,
+                        "QuesID": 1772,
+                        "QType": 3,
+                        "QTitle": "通信建设项目中的一些进度、质量方面的柔性要求在总包模式下可能变得刚性，若为妥善应对会给总包方带来极大的风险",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "正确",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "错误",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            }
+                        ],
+                        "Answer": "A",
+                        "Analy": "",
+                        "SubAnswer": "A",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252345,
+                        "QuesNo": 8,
+                        "QuesID": 3748,
+                        "QType": 3,
+                        "QTitle": "项目销售开的专用增值税发票的税叫进项税",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "正确",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "错误",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            }
+                        ],
+                        "Answer": "B",
+                        "Analy": "叫销项税",
+                        "SubAnswer": "B",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252346,
+                        "QuesNo": 9,
+                        "QuesID": 1803,
+                        "QType": 3,
+                        "QTitle": "就政府投资项目，如工程总承包合同中明确约定工程结算款以发包人委托审计的结果为准的，虽司法解释有“当事人约定按照固定价结算工程价款，一方当事人请求对建设工程造价进行鉴定的，不予支持”的规定，如工程总承包商对审计结果不满意的，仍可以通过司法途径进行救济",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "正确",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "错误",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            }
+                        ],
+                        "Answer": "A",
+                        "Analy": "",
+                        "SubAnswer": "A",
+                        "StatusID": 1
+                    },
+                    {
+                        "EQID": 252347,
+                        "QuesNo": 10,
+                        "QuesID": 1775,
+                        "QType": 3,
+                        "QTitle": "在国际工程中，中资总包商主要使用中国技术标准和规范",
+                        "ImgPath": "",
+                        "TK_Num": 0,
+                        "Options": [
+                            {
+                                "OptionVal": "A",
+                                "OptionText": "正确",
+                                "ImgPath": "",
+                                "IsCheck": false,
+                                "StatusID": 0
+                            },
+                            {
+                                "OptionVal": "B",
+                                "OptionText": "错误",
+                                "ImgPath": "",
+                                "IsCheck": true,
+                                "StatusID": 1
+                            }
+                        ],
+                        "Answer": "B",
+                        "Analy": "",
+                        "SubAnswer": "B",
+                        "StatusID": 1
+                    }
+                ],
+                "Errors": [
+                    3
+                ]
+            }
+        ],
+        "Errors": [
+            6,
+            11,
+            12,
+            13,
+            16,
+            20,
+            22,
+            25,
+            28,
+            30,
+            31,
+            37,
+            39,
+            40,
+            43
+        ]
+    },
+    "count": -1
+}
