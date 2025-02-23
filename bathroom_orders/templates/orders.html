@@ -1,0 +1,110 @@
+<!-- templates/orders.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>卫浴订单管理</title>
+    <style>
+        body { max-width: 1200px; margin: 20px auto; padding: 0 20px; }
+        .order-form { margin-bottom: 40px; background: #f5f5f5; padding: 20px; border-radius: 8px; }
+        .form-row { margin-bottom: 15px; display: flex; gap: 20px; }
+        .form-row label { min-width: 100px; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+        th { background-color: #f8f9fa; }
+    </style>
+</head>
+<body>
+    <h1>卫浴产品订单管理</h1>
+
+    <!-- 订单表单 -->
+    <form method="post" class="order-form">
+        <h2>新建订单</h2>
+        <div class="form-row">
+            <label>订单编号*:</label>
+            <input type="text" name="order_number" required>
+
+            <label>客户姓名*:</label>
+            <input type="text" name="customer_name" required>
+        </div>
+
+        <div class="form-row">
+            <label>联系电话*:</label>
+            <input type="tel" name="phone" pattern="\d{11}" required>
+
+            <label>产品类型*:</label>
+            <select name="product_type" required>
+                <option value="马桶">马桶</option>
+                <option value="淋浴房">淋浴房</option>
+                <option value="浴室柜">浴室柜</option>
+                <option value="五金配件">五金配件</option>
+            </select>
+        </div>
+
+        <div class="form-row">
+            <label>产品型号*:</label>
+            <input type="text" name="product_model" required>
+
+            <label>数量*:</label>
+            <input type="number" name="quantity" min="1" value="1" required>
+        </div>
+
+        <div class="form-row">
+            <label>单价(元)*:</label>
+            <input type="number" name="unit_price" step="0.01" required>
+
+            <label>安装地址:</label>
+            <input type="text" name="install_address">
+        </div>
+
+        <div class="form-row">
+            <label>安装日期:</label>
+            <input type="date" name="install_date">
+
+            <label>订单状态:</label>
+            <select name="status">
+                <option value="已下单">已下单</option>
+                <option value="已发货">已发货</option>
+                <option value="已完成">已完成</option>
+            </select>
+        </div>
+
+        <div class="form-row">
+            <label>备注:</label>
+            <textarea name="notes" rows="2" style="width:300px"></textarea>
+        </div>
+
+        <button type="submit">提交订单</button>
+    </form>
+
+    <!-- 订单列表 -->
+    <h2>订单列表</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>订单编号</th>
+                <th>客户姓名</th>
+                <th>产品类型</th>
+                <th>型号</th>
+                <th>数量</th>
+                <th>总金额</th>
+                <th>状态</th>
+                <th>安装日期</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for order in orders %}
+            <tr>
+                <td>{{ order.order_number }}</td>
+                <td>{{ order.customer_name }}</td>
+                <td>{{ order.product_type }}</td>
+                <td>{{ order.product_model }}</td>
+                <td>{{ order.quantity }}</td>
+                <td>¥{{ "%.2f"|format(order.total_amount) }}</td>
+                <td>{{ order.status }}</td>
+                <td>{{ order.install_date or '' }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
